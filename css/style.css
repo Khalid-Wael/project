@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-brand{ font-size: 30px !important; color:aqua  !important;}
+.nav-link{ color: aqua !important; font-size: 20px !important; margin: 10px;}
+/* ***************** start hreader ************************ */
+.Home{ background-color: black; height: 550px;}
+.first{ position: absolute;}
+.Home h1{ color: aqua; margin-top: 150px; font-size: 50px; margin-bottom: 15px;}
+.Home p{ font-size: 20px; color: white;}
+.photo-one{ width: 450px; height: 350px; float: right; margin-top: 40px; background-image: url('../img/Authentication-pana.png'); background-repeat: no-repeat; background-size: cover;}
+/* ******************* start section one ******************* */
+.Our-Corse{ padding: 80px 0; background-color: rgb(47, 47, 47);}
+.Our-Corse h2{ color: aqua; margin-bottom: 50px; font-size: 40px;}
+.card-title{ color: aqua;}
+.card-text{ color: white;}
+.card{ background-color: black !important;}
+.btn1{ width: 100%; height: 100%; background-color: aqua; border: none;; font-size: 20px; border-radius: 10px;}
+/* ******************* start section two *******************  */
+.Languages-you-will-learn{ padding: 80px 0; background-color: black;}
+.Languages-you-will-learn h2{ font-size: 40px; color: aqua; margin-bottom: 50px;}
+.row ul li a{ font-size: 25px; color: white; list-style: none; text-decoration: none;} ul li a:hover{color: aqua;}
+#kk{ left:400px !important; position: absolute;}
+.photo-two{ width: 400px; height:350px;margin-left: 150px; margin-top: -200px; background-size: cover; background-repeat: no-repeat; background-image:url('../img/college\ project-pana.png')}
+/* ******************* stert section three ***************** */
+.Register { padding: 80px 0; background-color:rgb(47, 47, 47);}
+.Register h2{ font-size: 40px; color: aqua; margin-bottom: 30px;}
+#pp{ color: black !important; font-size: 20px !important;}
+.btn2{ float: right; background-color: aqua; color: black; font-size: 18px; padding: 10px 40px; border: none; border-radius: 10px;}
+ /******************** footer ****************************** */
+ footer{ background-color: black; padding: 10px 0;}
+ h4{ color: white !important;}

@@ -1,0 +1,35 @@
+/* @media(min-width:576px) small screen */
+/* @media(min-width:768px) tablate screen */
+/* @media(min-width:992px) large screen */
+/* @media(min-width:1200px) Xlarge screen */
+
+
+/***** Iphone******/
+@media(max-width:768px){
+    .Home h1{ font-size: 35px !important;}
+    .Home p{ font-size: 20px !important;}
+    .Home .first{ margin-top: -100px;}
+    .photo-one{ width: 300px !important; height: 300px !important; margin-top: 310px !important;}
+    /* ********** */
+    
+    .Languages-you-will-learn h2{ font-size: 30px !important;}
+    .row ul li a{ font-size: 18px !important;}
+    #kk{ margin-left: -300px !important;}
+    .photo-two{ width: 220px !important; height: 220px !important; margin-top: -0.5px !important; position: absolute; left: 50px !important;}
+
+}
+
+/***** Ipad ******/
+@media(width:768px){
+    .Home h1{ font-size: 50px !important;}
+    .Home p{ font-size: 20px !important;}
+    .Home .first{ margin-top: -100px;}
+    .photo-one{ width: 400px !important; height: 400px !important; margin-top: 230px !important;} 
+    /* ***** */
+    .Languages-you-will-learn h2{ font-size: 50px !important;}
+    .Our-Corse h2{ margin-left: 10px !important; }
+    .row ul li a{ font-size: 28px !important;}
+    #kk{ margin-left: -250px !important;}
+    .photo-two{ width: 350px !important; height: 300px !important; margin-top: -55px !important; position: absolute; left: 250px !important;}
+  
+}
